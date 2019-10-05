@@ -1,0 +1,17 @@
+/* PRIMARY */
+.text-myPrimary {
+    color: #ebca1a;
+    font-weight: bolder;
+    letter-spacing: 3rem;
+}
+
+
+/* SECONDARY */ 
+.btn-mySecondary {
+    background: #dec749;
+    /* font-weight: bolder; */
+    font-size: 30px;
+}
+.btn-mySecondary:hover {
+    background: #ebca1a;
+}
